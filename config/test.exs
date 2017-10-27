@@ -12,8 +12,8 @@ config :logger, level: :warn
 # Configure your database
 config :gigalixir_getting_started, GigalixirGettingStarted.Repo,
   adapter: Ecto.Adapters.Postgres,
-  username: "postgres",
-  password: "postgres",
+  username: "taiwan-indigenous",
+  password: "xl3cj;6 xl3cj;6",
   database: "gigalixir_getting_started_test",
   hostname: "localhost",
   pool: Ecto.Adapters.SQL.Sandbox
