@@ -55,4 +55,5 @@ config :gigalixir_getting_started, GigalixirGettingStarted.Repo,
   password: "xl3cj;6 xl3cj;6",
   database: "gigalixir_getting_started_dev",
   hostname: "localhost",
+  port: 5433,
   pool_size: 10
